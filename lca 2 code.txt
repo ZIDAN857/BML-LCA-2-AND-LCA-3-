@@ -1,8 +1,8 @@
 # BML-LCA
 LCA 2 
 # Naive-bayes-adult-dataset
-Name: vedant bhilare
-PRN: 1032231716
+Name: Zidan Shaikh
+PRN: 1032231534
 cse b TY
 
 42. Train the system using Adult data set obtained from UCI ML repository, determine accuracy using Naive Bayes classifier
